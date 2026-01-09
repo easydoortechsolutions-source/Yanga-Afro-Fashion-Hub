@@ -51,13 +51,13 @@ If something is not in this repo, it is not yet a real decision.
 ## Structure
 
 /docs
-vision.md – Why Yanggah exists  
-product.md – What Yanggah is (MVP)
-architecture.md – How the system is designed
-data-model.md – How data is structured
-payments.md – How money moves
-roadmap.md – How Yanggah will grow
-assumptions.md – What must be true for success
+vision.md – Why Yanggah exists.  
+product.md – What Yanggah is (MVP).  
+architecture.md – How the system is designed.  
+data-model.md – How data is structured.  
+payments.md – How money moves.  
+roadmap.md – How Yanggah will grow. 
+assumptions.md – What must be true for success.  
 
 
 ---
