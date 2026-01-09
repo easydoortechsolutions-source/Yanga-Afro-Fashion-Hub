@@ -1,4 +1,4 @@
-#data-model# Yanggah – Data Model (MVP)
+Yanggah – Data Model (MVP)
 
 ## Goal of this document
 Define a minimal, normalized data model that supports:
