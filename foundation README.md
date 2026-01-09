@@ -1,4 +1,4 @@
-# Yanggah-Afro-Fashion-Hub
+# Yanggah-Afro-Fashion-Hub foundation
 
 
 This repository contains the **foundational documents** for Yanggah, a marketplace for African fashion starting with Nigerian traditional wear.
