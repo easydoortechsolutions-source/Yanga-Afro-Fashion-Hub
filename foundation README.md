@@ -50,7 +50,7 @@ If something is not in this repo, it is not yet a real decision.
 
 ## Structure
 
-/docs
+/docs  
 vision.md – Why Yanggah exists.  
 product.md – What Yanggah is (MVP).  
 architecture.md – How the system is designed.  
