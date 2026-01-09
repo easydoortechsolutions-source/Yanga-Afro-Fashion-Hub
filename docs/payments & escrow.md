@@ -92,7 +92,7 @@ Internal:
     - amount = order.total_amount
 
 This means:
-> “Yanga now owes this amount either to the vendor or to the buyer.”
+> “Yanggah now owes this amount either to the vendor or to the buyer.”
 
 ---
 
@@ -152,7 +152,7 @@ Provider:
 
 ## Platform fees
 
-Yanga takes fees via:
+Yanggah takes fees via:
 - A `fee` ledger entry
 - Subtracted from vendor payout
 
@@ -166,7 +166,7 @@ are all explicit.
 
 ## Why the ledger matters
 
-At any time, Yanga must be able to answer:
+At any time, Yanggah must be able to answer:
 
 | Question | Source |
 |--------|------|
@@ -185,7 +185,7 @@ This protects:
 
 ## Provider independence
 
-Yanga must be able to support:
+Yanggah must be able to support:
 - Stripe
 - Paystack
 - Flutterwave
@@ -194,7 +194,7 @@ Yanga must be able to support:
 
 Therefore:
 - Providers only write events
-- Yanga decides truth
+- Yanggah decides truth
 
 ---
 
@@ -219,7 +219,7 @@ At minimum:
     - reason
     - timestamp
 
-This is what keeps Yanga safe when:
+This is what keeps Yanggah safe when:
 - A vendor complains
 - A buyer threatens chargeback
 - A regulator asks questions
